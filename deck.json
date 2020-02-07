@@ -1,0 +1,162 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7b6bd262-4981-11ea-bcc7-7831c1c06c8a",
+            "deck_config_uuid": "c4f2716c-4980-11ea-a401-7831c1c06c8a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "_editor_button_styles.css"
+            ],
+            "name": "test",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "test",
+                        "test<div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I:c]mwEa$9",
+                    "note_model_uuid": "0f85078c-48f8-11ea-a583-20c9d0810917",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "testestset",
+                        "lololol"
+                    ],
+                    "flags": 0,
+                    "guid": "jM4qWZ~j8C",
+                    "note_model_uuid": "0f85078c-48f8-11ea-a583-20c9d0810917",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "6f5e8458-498e-11ea-aa6a-7831c1c06c8a",
+    "deck_config_uuid": "c4f2716c-4980-11ea-a401-7831c1c06c8a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 180,
+            "autoplay": true,
+            "crowdanki_uuid": "c4f2716c-4980-11ea-a401-7831c1c06c8a",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.1
+            },
+            "maxTaken": 180,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    6,
+                    7
+                ],
+                "order": 1,
+                "perDay": 999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 999
+            },
+            "timer": 1
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "_editor_button_styles.css"
+    ],
+    "name": "again",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0f85078c-48f8-11ea-a583-20c9d0810917",
+            "css": "@import url(\"_editor_button_styles.css\");\n\n.card {\n font-family: arial;\n font-size: 20px;\n align: center;\n text-align: left;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-c78c0",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
