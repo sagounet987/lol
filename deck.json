@@ -2321,1032 +2321,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "f9515388-48f4-11ea-ad29-acde48001122",
-            "deck_config_uuid": "f92aef22-48f4-11ea-bd74-acde48001122",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "220px-Onychomycosis_due_to_Trychophyton_rubrum,_right_and_left_great_toe_PHIL_579_lores.jpg",
-                "Necrotizing_fasciitis_left_leg.JPEG",
-                "_editor_button_styles.css",
-                "cb61aa15ad3042fca096f72c4ba9751d-oa-1-A.svg",
-                "cb61aa15ad3042fca096f72c4ba9751d-oa-1-Q.svg",
-                "cb61aa15ad3042fca096f72c4ba9751d-oa-2-A.svg",
-                "cb61aa15ad3042fca096f72c4ba9751d-oa-2-Q.svg",
-                "cb61aa15ad3042fca096f72c4ba9751d-oa-O.svg",
-                "dermatologie-dermatologie-photographie-candidose-buccale-muguet-lEDmbptHAi.jpg",
-                "erysipele.jpg",
-                "ob_f220b4_image-dermite.jpg",
-                "paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg",
-                "paste-30bba51739dc52c015342ef73c909b1bd7e2c4ce.jpg",
-                "paste-5b2f68ef5572d4a216a9bcef3611adf93295edea.jpg",
-                "paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg",
-                "paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg",
-                "paste-8ab764eeb1b07d1bd1663249e750ff45a3ce154c.jpg",
-                "paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg",
-                "paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg",
-                "teignes.jpg",
-                "tmp9d80bhfh.png"
-            ],
-            "mid": "1519311241402",
-            "name": "9. Infections cutanéo-muqueuses et des phanères (152)",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "2 germes des infections cutanées bactériennes ?&nbsp;",
-                        "Staphylococcus aureus (95% SE à la méticilline : cloxacilline)<div>Streptococcus pyogenes (SGA) (100% SE à la pénicilline : ATB de reférence : amoxicilline)</div><div>Si allergie aux ß-lactamines : pristinamycine ou clindamycine&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "eZ.lF+(JIC",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Niveaux d'atteintes cutanés en fonction de la pathologie ?",
-                        "<img src=\"paste-30bba51739dc52c015342ef73c909b1bd7e2c4ce.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "j6zK5{]GFP",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>[[oc1::Infection de la couche <b>cornée</b> épiderme : staphylocoque 70% ; streptocoque 30% ou les deux&nbsp;<div>Non immunisante : récidive possible]]&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>[[oc2::Infection cutanée bactérienne la plus fqt chez l'enfant ; contagieux par manuportage]]&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>[[oc3::Clinique]]&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>[[oc4::<u>Lésion élementaire</u> : vésico-bulle sur peau inflammatoire ; lésion superficielle et fragile =&gt; rompt =&gt; érosion suitante puis crouteuse, jaunâtre (croute mélicérique)&nbsp;<div>Se regroupe en placard polycycliques&nbsp;</div><div>++ région péri-orificielle : buccales, anales, génitales&nbsp;</div><div>ADP satellite</div><div>Pas de fièvre&nbsp;</div><div>Pas de cicatrices]]</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- [[oc5::<u>Impétigo péri-anal ou péri-génital des nourrisson</u> = <i>pemphigus épidémique des crèches</i> : staphylococcique par macération dans la couche&nbsp;]]</div><div>- [[oc6::<u>Impétiginisation</u> : surinfection d'une dermatose prurigineuse (varicelle, eczéma)]]</div><div>- [[oc7::<u>Ecthyma</u> : impétigo creusant nécrotique : adulte alcoolique ou DT, MI, streptococcique : épaisse croute noiratre entourée d'un halo inflammatoire, ulcération profonde dans le derme, laisse cicatrice]]</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>[[oc8::Pb de contagiosité ++&nbsp;<div>Local : abcès sous cutané, lymphangite</div><div>Systémique : GNA post streptococcique exceptionnel &lt; 300 cas/an ; pas de dépistage post-impétigo ; non prévenue par ATB ]]</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>[[oc9::- Eviction scolaire si lésion non protégeable par pansement, 3 jours après début du ttt&nbsp;<div>- Hygiène : lavage au savon, ongles coupé, lavage des mains&nbsp;</div><div>- ATB :&nbsp;</div><div>=&gt; <u>forme peu étendue &lt; 2% de la surface corporelle, &lt; 5 sites lésionnels :</u> pommade ATB <font color=\"#00aa00\">mupirocine</font> 2x/j pdt 5 j&nbsp;</div><div>=&gt;<u> forme étendue : </u>ATB PO 7j : adulte : C1G <font color=\"#00aa00\">céfalexine</font> ou <font color=\"#00aa00\">pristinamycine</font> ; enfant : C1G (<font color=\"#00aa00\">céfadroxil</font>) ou <font color=\"#00aa00\">augmentin</font>&nbsp;]]</div></div>",
-                        "Diagnostiquer et traiter un impétigo&nbsp;",
-                        "",
-                        "",
-                        "1,1,0 | n,n,n,n",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>{{c1::Infection de la couche <b>cornée</b> épiderme : staphylocoque 70% ; streptocoque 30% ou les deux&nbsp;<div>Non immunisante : récidive possible}}&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- ...</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>Infection de la couche <b>cornée</b> épiderme : staphylocoque 70% ; streptocoque 30% ou les deux&nbsp;<div>Non immunisante : récidive possible&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>{{c2::Infection cutanée bactérienne la plus fqt chez l'enfant ; contagieux par manuportage}}&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- ...</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>Infection cutanée bactérienne la plus fqt chez l'enfant ; contagieux par manuportage&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>{{c3::Clinique}}&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- ...</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>Clinique&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>{{c4::<u>Lésion élementaire</u> : vésico-bulle sur peau inflammatoire ; lésion superficielle et fragile =&gt; rompt =&gt; érosion suitante puis crouteuse, jaunâtre (croute mélicérique)&nbsp;<div>Se regroupe en placard polycycliques&nbsp;</div><div>++ région péri-orificielle : buccales, anales, génitales&nbsp;</div><div>ADP satellite</div><div>Pas de fièvre&nbsp;</div><div>Pas de cicatrices}}</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- ...</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div><u>Lésion élementaire</u> : vésico-bulle sur peau inflammatoire ; lésion superficielle et fragile =&gt; rompt =&gt; érosion suitante puis crouteuse, jaunâtre (croute mélicérique)&nbsp;<div>Se regroupe en placard polycycliques&nbsp;</div><div>++ région péri-orificielle : buccales, anales, génitales&nbsp;</div><div>ADP satellite</div><div>Pas de fièvre&nbsp;</div><div>Pas de cicatrices</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- {{c5::<u>Impétigo péri-anal ou péri-génital des nourrisson</u> = <i>pemphigus épidémique des crèches</i> : staphylococcique par macération dans la couche&nbsp;}}</div><div>- ...</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- <u>Impétigo péri-anal ou péri-génital des nourrisson</u> = <i>pemphigus épidémique des crèches</i> : staphylococcique par macération dans la couche&nbsp;</div><div>- {{c6::<u>Impétiginisation</u> : surinfection d'une dermatose prurigineuse (varicelle, eczéma)}}</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- <u>Impétiginisation</u> : surinfection d'une dermatose prurigineuse (varicelle, eczéma)</div><div>- {{c7::<u>Ecthyma</u> : impétigo creusant nécrotique : adulte alcoolique ou DT, MI, streptococcique : épaisse croute noiratre entourée d'un halo inflammatoire, ulcération profonde dans le derme, laisse cicatrice}}</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>...</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- ...</div><div>- <u>Ecthyma</u> : impétigo creusant nécrotique : adulte alcoolique ou DT, MI, streptococcique : épaisse croute noiratre entourée d'un halo inflammatoire, ulcération profonde dans le derme, laisse cicatrice</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>{{c8::Pb de contagiosité ++&nbsp;<div>Local : abcès sous cutané, lymphangite</div><div>Systémique : GNA post streptococcique exceptionnel &lt; 300 cas/an ; pas de dépistage post-impétigo ; non prévenue par ATB }}</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>...</div></div>",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>...&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>...</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- ...</div><div>- ...</div><div>- ...</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>Pb de contagiosité ++&nbsp;<div>Local : abcès sous cutané, lymphangite</div><div>Systémique : GNA post streptococcique exceptionnel &lt; 300 cas/an ; pas de dépistage post-impétigo ; non prévenue par ATB </div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>{{c9::- Eviction scolaire si lésion non protégeable par pansement, 3 jours après début du ttt&nbsp;<div>- Hygiène : lavage au savon, ongles coupé, lavage des mains&nbsp;</div><div>- ATB :&nbsp;</div><div>=&gt; <u>forme peu étendue &lt; 2% de la surface corporelle, &lt; 5 sites lésionnels :</u> pommade ATB <font color=\"#00aa00\">mupirocine</font> 2x/j pdt 5 j&nbsp;</div><div>=&gt;<u> forme étendue : </u>ATB PO 7j : adulte : C1G <font color=\"#00aa00\">céfalexine</font> ou <font color=\"#00aa00\">pristinamycine</font> ; enfant : C1G (<font color=\"#00aa00\">céfadroxil</font>) ou <font color=\"#00aa00\">augmentin</font>&nbsp;}}</div></div>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<u><b>Physiopathologie de l'impétigo :<br></b></u>{{c21::Infection de la couche <b>cornée</b> épiderme : staphylocoque 70% ; streptocoque 30% ou les deux&nbsp;<div>Non immunisante : récidive possible}}&nbsp;</div><div><br></div><div><b><u>Epidémiologie :</u></b>&nbsp;</div><div>{{c21::Infection cutanée bactérienne la plus fqt chez l'enfant ; contagieux par manuportage}}&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic :</span>&nbsp;</div><div>{{c21::Clinique}}&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Forme habituelle :</span>&nbsp;</div><div>{{c21::<u>Lésion élementaire</u> : vésico-bulle sur peau inflammatoire ; lésion superficielle et fragile =&gt; rompt =&gt; érosion suitante puis crouteuse, jaunâtre (croute mélicérique)&nbsp;<div>Se regroupe en placard polycycliques&nbsp;</div><div>++ région péri-orificielle : buccales, anales, génitales&nbsp;</div><div>ADP satellite</div><div>Pas de fièvre&nbsp;</div><div>Pas de cicatrices}}</div></div><div><img src=\"paste-69c50ae01ca640e8dad1d2f6450dcf434553ef96.jpg\"><br></div><div><br></div><div><span class=\"bold_underlined\">Formes particulières&nbsp;</span><br></div><div>- {{c21::<u>Impétigo péri-anal ou péri-génital des nourrisson</u> = <i>pemphigus épidémique des crèches</i> : staphylococcique par macération dans la couche&nbsp;}}</div><div>- {{c21::<u>Impétiginisation</u> : surinfection d'une dermatose prurigineuse (varicelle, eczéma)}}</div><div>- {{c21::<u>Ecthyma</u> : impétigo creusant nécrotique : adulte alcoolique ou DT, MI, streptococcique : épaisse croute noiratre entourée d'un halo inflammatoire, ulcération profonde dans le derme, laisse cicatrice}}</div><div><img src=\"paste-6b354aef40b13e5095ea91feb7e5d5242e30f555.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications :</span>&nbsp;</div><div>{{c21::Pb de contagiosité ++&nbsp;<div>Local : abcès sous cutané, lymphangite</div><div>Systémique : GNA post streptococcique exceptionnel &lt; 300 cas/an ; pas de dépistage post-impétigo ; non prévenue par ATB }}</div></div><div><br></div><div><span class=\"bold_underlined\">TTT :&nbsp;</span><br></div><div>{{c21::- Eviction scolaire si lésion non protégeable par pansement, 3 jours après début du ttt&nbsp;<div>- Hygiène : lavage au savon, ongles coupé, lavage des mains&nbsp;</div><div>- ATB :&nbsp;</div><div>=&gt; <u>forme peu étendue &lt; 2% de la surface corporelle, &lt; 5 sites lésionnels :</u> pommade ATB <font color=\"#00aa00\">mupirocine</font> 2x/j pdt 5 j&nbsp;</div><div>=&gt;<u> forme étendue : </u>ATB PO 7j : adulte : C1G <font color=\"#00aa00\">céfalexine</font> ou <font color=\"#00aa00\">pristinamycine</font> ; enfant : C1G (<font color=\"#00aa00\">céfadroxil</font>) ou <font color=\"#00aa00\">augmentin</font>&nbsp;}}</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "H{09L0IJIv",
-                    "note_model_uuid": "f95183ee-48f4-11ea-8a68-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<span class=\"bold_underlined\">Physiopathologie</span>&nbsp;:&nbsp;<div>[[oc1::Staph aureus agent causal ppal =&gt; infection du follicule pilo-sébacé ; facteur favorisant : macération, frottement, rasage&nbsp;]]</div><div><br></div><div><span class=\"bold_underlined\">Diagnostic clinique :</span><br></div><div>[[oc2::Lésion papuleuse érythémateuse centrée par le poil évoluant vers des pustules ; sans cicatrice ; sans fièvre&nbsp;<div>Zone préf : périnée, dos, cuisses</div><div>Formes particulière : <b>orgelet</b> (cil) <b>sycosis</b> (poils dur : barbe, pubis) ]]</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic différentiels :</span>&nbsp;[[oc3::folliculite à bacille Gram négatif ; folliculite trichophytique ; acné]]</div><div><img src=\"paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">TTT :</span>&nbsp;</div>[[oc4::- Hygiène ++&nbsp;<div>- Antiseptique quotidien&nbsp;</div><div>- Sycosis : mousse à raser antiseptique, rasoir jetable, espacer rasage&nbsp;</div><div>- ATB PO : forme profuse : augmentin ou pristinamycine si allergie]]&nbsp;</div>",
-                        "Diagnostiquer et traiter une folliculite",
-                        "",
-                        "",
-                        "1,1,0 | n,n,n,n",
-                        "<span class=\"bold_underlined\">Physiopathologie</span>&nbsp;:&nbsp;<div>{{c1::Staph aureus agent causal ppal =&gt; infection du follicule pilo-sébacé ; facteur favorisant : macération, frottement, rasage&nbsp;}}</div><div><br></div><div><span class=\"bold_underlined\">Diagnostic clinique :</span><br></div><div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic différentiels :</span>&nbsp;...</div><div><img src=\"paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">TTT :</span>&nbsp;</div>...&nbsp;</div>",
-                        "<span class=\"bold_underlined\">Physiopathologie</span>&nbsp;:&nbsp;<div>Staph aureus agent causal ppal =&gt; infection du follicule pilo-sébacé ; facteur favorisant : macération, frottement, rasage&nbsp;</div><div><br></div><div><span class=\"bold_underlined\">Diagnostic clinique :</span><br></div><div>{{c2::Lésion papuleuse érythémateuse centrée par le poil évoluant vers des pustules ; sans cicatrice ; sans fièvre&nbsp;<div>Zone préf : périnée, dos, cuisses</div><div>Formes particulière : <b>orgelet</b> (cil) <b>sycosis</b> (poils dur : barbe, pubis) }}</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic différentiels :</span>&nbsp;...</div><div><img src=\"paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">TTT :</span>&nbsp;</div>...&nbsp;</div>",
-                        "<span class=\"bold_underlined\">Physiopathologie</span>&nbsp;:&nbsp;<div>...</div><div><br></div><div><span class=\"bold_underlined\">Diagnostic clinique :</span><br></div><div>Lésion papuleuse érythémateuse centrée par le poil évoluant vers des pustules ; sans cicatrice ; sans fièvre&nbsp;<div>Zone préf : périnée, dos, cuisses</div><div>Formes particulière : <b>orgelet</b> (cil) <b>sycosis</b> (poils dur : barbe, pubis) </div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic différentiels :</span>&nbsp;{{c3::folliculite à bacille Gram négatif ; folliculite trichophytique ; acné}}</div><div><img src=\"paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">TTT :</span>&nbsp;</div>...&nbsp;</div>",
-                        "<span class=\"bold_underlined\">Physiopathologie</span>&nbsp;:&nbsp;<div>...</div><div><br></div><div><span class=\"bold_underlined\">Diagnostic clinique :</span><br></div><div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic différentiels :</span>&nbsp;folliculite à bacille Gram négatif ; folliculite trichophytique ; acné</div><div><img src=\"paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">TTT :</span>&nbsp;</div>{{c4::- Hygiène ++&nbsp;<div>- Antiseptique quotidien&nbsp;</div><div>- Sycosis : mousse à raser antiseptique, rasoir jetable, espacer rasage&nbsp;</div><div>- ATB PO : forme profuse : augmentin ou pristinamycine si allergie}}&nbsp;</div>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<span class=\"bold_underlined\">Physiopathologie</span>&nbsp;:&nbsp;<div>{{c21::Staph aureus agent causal ppal =&gt; infection du follicule pilo-sébacé ; facteur favorisant : macération, frottement, rasage&nbsp;}}</div><div><br></div><div><span class=\"bold_underlined\">Diagnostic clinique :</span><br></div><div>{{c21::Lésion papuleuse érythémateuse centrée par le poil évoluant vers des pustules ; sans cicatrice ; sans fièvre&nbsp;<div>Zone préf : périnée, dos, cuisses</div><div>Formes particulière : <b>orgelet</b> (cil) <b>sycosis</b> (poils dur : barbe, pubis) }}</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic différentiels :</span>&nbsp;{{c21::folliculite à bacille Gram négatif ; folliculite trichophytique ; acné}}</div><div><img src=\"paste-aa8efe92cfff0f1e7c143ee5bd07838c4c4c9d93.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">TTT :</span>&nbsp;</div>{{c21::- Hygiène ++&nbsp;<div>- Antiseptique quotidien&nbsp;</div><div>- Sycosis : mousse à raser antiseptique, rasoir jetable, espacer rasage&nbsp;</div><div>- ATB PO : forme profuse : augmentin ou pristinamycine si allergie}}&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "M0XX9|h+}&",
-                    "note_model_uuid": "f95183ee-48f4-11ea-8a68-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>[[oc1::Folliculite profonde et nécrosante de l'ensemble du follicule pilo-sébacé&nbsp;<div>Staph aureus : sécréteur toxine : leucocidine de Panton-Valentine PVL dans furonculoses</div><div>Localisation faciale se compliquent de staphyloccocie maligne ]]</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>[[oc2::Nodule inflammatoire après qq jours de maturation : zone nécrotique centrée = <b>bourbillon</b>&nbsp;<div>Facteurs favorisants : macération, frottements&nbsp;</div><div>Cicatrices&nbsp;</div><div>Pas de fièvre]]&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>[[oc6::<b>Anthrax</b> : conglomérat de plusieurs furoncles&nbsp;<div><b>Furonculose</b> : répétitions de furoncles souvent multiples : portage nasal de Staph aureus =&gt; dissémination dans l'entourage&nbsp;</div><div>Recherche de terrain favorisant : DT, ID, carence martiale : négatif++]]</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : [[oc3::abcès sous cutané, lymphangite, dermohypodermite aigue, staphylococcie maligne de la face]]&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: [[oc4::complication d'un furoncle centro-facial, manipulation intempestive =&gt; placard extensif visage + fièvre =&gt; hospitalisation + ATB urgent : risque thrombo-phlébite du sinus caverneux&nbsp;]]</div><div><br></div><div>Systémique : [[oc5::Bactériémie à staph aureus : risque de greffe IIr : endocardite, IOA..]]</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: [[oc7::<span class=\"bold_red\">NFS - VIH - EPP - GaJ</span>&nbsp;- Prlvmt bactério furoncle si compliqué ou à risque de complications ; si échec de décolonisation : recherche Staph dans gites (narines, périnée, anus, cicatrices)]]</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>[[oc8::- Hygiène + protection par pansement ; lavage savon ts les jours ; antiseptiques locaux ; incision extrémité furoncle si taille importante&nbsp;<div>- ATB systémique : formes <b>à risque de complications</b> (centro-faciale, ID..) : <font color=\"#00aa00\">pristinamycine ou clindamycine</font> 7J&nbsp;</div><div>- <b><u>Furonculose</u></b> : après prlvmt : Hygiène + toilette personnels + <font color=\"#00aa00\">ATB PO pristinamycine ou clindamycine 7J</font> + <b>décontamination des sites de portage</b> pendant 7J (douche antiseptique quotidienne, pommade ATB 2x/j du patient et de son entourage)]]</div></div>",
-                        "Diagnostiquer et traiter un furoncle",
-                        "",
-                        "",
-                        "1,1,0 | n,n,n,n",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>{{c1::Folliculite profonde et nécrosante de l'ensemble du follicule pilo-sébacé&nbsp;<div>Staph aureus : sécréteur toxine : leucocidine de Panton-Valentine PVL dans furonculoses</div><div>Localisation faciale se compliquent de staphyloccocie maligne }}</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>...</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : ...&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: ...</div><div><br></div><div>Systémique : ...</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: ...</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>Folliculite profonde et nécrosante de l'ensemble du follicule pilo-sébacé&nbsp;<div>Staph aureus : sécréteur toxine : leucocidine de Panton-Valentine PVL dans furonculoses</div><div>Localisation faciale se compliquent de staphyloccocie maligne </div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>{{c2::Nodule inflammatoire après qq jours de maturation : zone nécrotique centrée = <b>bourbillon</b>&nbsp;<div>Facteurs favorisants : macération, frottements&nbsp;</div><div>Cicatrices&nbsp;</div><div>Pas de fièvre}}&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>...</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : ...&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: ...</div><div><br></div><div>Systémique : ...</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: ...</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>Nodule inflammatoire après qq jours de maturation : zone nécrotique centrée = <b>bourbillon</b>&nbsp;<div>Facteurs favorisants : macération, frottements&nbsp;</div><div>Cicatrices&nbsp;</div><div>Pas de fièvre&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>...</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : {{c3::abcès sous cutané, lymphangite, dermohypodermite aigue, staphylococcie maligne de la face}}&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: ...</div><div><br></div><div>Systémique : ...</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: ...</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>...</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : abcès sous cutané, lymphangite, dermohypodermite aigue, staphylococcie maligne de la face&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: {{c4::complication d'un furoncle centro-facial, manipulation intempestive =&gt; placard extensif visage + fièvre =&gt; hospitalisation + ATB urgent : risque thrombo-phlébite du sinus caverneux&nbsp;}}</div><div><br></div><div>Systémique : ...</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: ...</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>...</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : ...&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: complication d'un furoncle centro-facial, manipulation intempestive =&gt; placard extensif visage + fièvre =&gt; hospitalisation + ATB urgent : risque thrombo-phlébite du sinus caverneux&nbsp;</div><div><br></div><div>Systémique : {{c5::Bactériémie à staph aureus : risque de greffe IIr : endocardite, IOA..}}</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: ...</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>{{c6::<b>Anthrax</b> : conglomérat de plusieurs furoncles&nbsp;<div><b>Furonculose</b> : répétitions de furoncles souvent multiples : portage nasal de Staph aureus =&gt; dissémination dans l'entourage&nbsp;</div><div>Recherche de terrain favorisant : DT, ID, carence martiale : négatif++}}</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : ...&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: ...</div><div><br></div><div>Systémique : Bactériémie à staph aureus : risque de greffe IIr : endocardite, IOA..</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: ...</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div><b>Anthrax</b> : conglomérat de plusieurs furoncles&nbsp;<div><b>Furonculose</b> : répétitions de furoncles souvent multiples : portage nasal de Staph aureus =&gt; dissémination dans l'entourage&nbsp;</div><div>Recherche de terrain favorisant : DT, ID, carence martiale : négatif++</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : ...&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: ...</div><div><br></div><div>Systémique : ...</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: {{c7::<span class=\"bold_red\">NFS - VIH - EPP - GaJ</span>&nbsp;- Prlvmt bactério furoncle si compliqué ou à risque de complications ; si échec de décolonisation : recherche Staph dans gites (narines, périnée, anus, cicatrices)}}</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>...</div></div>",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>...</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>...&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>...</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : ...&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: ...</div><div><br></div><div>Systémique : ...</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: <span class=\"bold_red\">NFS - VIH - EPP - GaJ</span>&nbsp;- Prlvmt bactério furoncle si compliqué ou à risque de complications ; si échec de décolonisation : recherche Staph dans gites (narines, périnée, anus, cicatrices)</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>{{c8::- Hygiène + protection par pansement ; lavage savon ts les jours ; antiseptiques locaux ; incision extrémité furoncle si taille importante&nbsp;<div>- ATB systémique : formes <b>à risque de complications</b> (centro-faciale, ID..) : <font color=\"#00aa00\">pristinamycine ou clindamycine</font> 7J&nbsp;</div><div>- <b><u>Furonculose</u></b> : après prlvmt : Hygiène + toilette personnels + <font color=\"#00aa00\">ATB PO pristinamycine ou clindamycine 7J</font> + <b>décontamination des sites de portage</b> pendant 7J (douche antiseptique quotidienne, pommade ATB 2x/j du patient et de son entourage)}}</div></div>",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<span class=\"bold_underlined\">Physiopathologie :</span>&nbsp;<div>{{c21::Folliculite profonde et nécrosante de l'ensemble du follicule pilo-sébacé&nbsp;<div>Staph aureus : sécréteur toxine : leucocidine de Panton-Valentine PVL dans furonculoses</div><div>Localisation faciale se compliquent de staphyloccocie maligne }}</div></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Diagnostic clinique :</span>&nbsp;</div>{{c21::Nodule inflammatoire après qq jours de maturation : zone nécrotique centrée = <b>bourbillon</b>&nbsp;<div>Facteurs favorisants : macération, frottements&nbsp;</div><div>Cicatrices&nbsp;</div><div>Pas de fièvre}}&nbsp;</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Formes clinique</span>:&nbsp;</div><div>{{c21::<b>Anthrax</b> : conglomérat de plusieurs furoncles&nbsp;<div><b>Furonculose</b> : répétitions de furoncles souvent multiples : portage nasal de Staph aureus =&gt; dissémination dans l'entourage&nbsp;</div><div>Recherche de terrain favorisant : DT, ID, carence martiale : négatif++}}</div></div><div><img src=\"paste-21919bdaf6854fc2131062cde817c2c44b808409.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Complications des furoncles :</span>&nbsp;</div><div>Loco-régional : {{c21::abcès sous cutané, lymphangite, dermohypodermite aigue, staphylococcie maligne de la face}}&nbsp;</div><div><br></div><div>=&gt;<span class=\"bold_red\"> staphylococcie maligne de la face</span>&nbsp;: {{c21::complication d'un furoncle centro-facial, manipulation intempestive =&gt; placard extensif visage + fièvre =&gt; hospitalisation + ATB urgent : risque thrombo-phlébite du sinus caverneux&nbsp;}}</div><div><br></div><div>Systémique : {{c21::Bactériémie à staph aureus : risque de greffe IIr : endocardite, IOA..}}</div><div><img src=\"paste-e3abbebcd4d25eaa68c724505807cb241cac33ff.jpg\"><br></div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Bilan étiologie d'une furonculose ou furoncle compliqué</span>&nbsp;: {{c21::<span class=\"bold_red\">NFS - VIH - EPP - GaJ</span>&nbsp;- Prlvmt bactério furoncle si compliqué ou à risque de complications ; si échec de décolonisation : recherche Staph dans gites (narines, périnée, anus, cicatrices)}}</div><div><br></div><div><span style=\"font-weight: bold; text-decoration-line: underline;\">Traitement d'un furoncle :</span>&nbsp;</div><div>{{c21::- Hygiène + protection par pansement ; lavage savon ts les jours ; antiseptiques locaux ; incision extrémité furoncle si taille importante&nbsp;<div>- ATB systémique : formes <b>à risque de complications</b> (centro-faciale, ID..) : <font color=\"#00aa00\">pristinamycine ou clindamycine</font> 7J&nbsp;</div><div>- <b><u>Furonculose</u></b> : après prlvmt : Hygiène + toilette personnels + <font color=\"#00aa00\">ATB PO pristinamycine ou clindamycine 7J</font> + <b>décontamination des sites de portage</b> pendant 7J (douche antiseptique quotidienne, pommade ATB 2x/j du patient et de son entourage)}}</div></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ov:k!Cbkrt",
-                    "note_model_uuid": "f95183ee-48f4-11ea-8a68-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Qu'est ce qu'un érysipèle ?&nbsp;",
-                        "Dermo-hypodermite aïgue bactérienne non nécrosante&nbsp;"
-                    ],
-                    "flags": 0,
-                    "guid": "E~w(mF>c#{",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Physiopathologie de l'érysipèle ?&nbsp;",
-                        "<span class=\"bold_red\">Streptococcus pyogenes SGA</span>&nbsp;++&nbsp; (SE 100% à pénicilline)&nbsp;<div>Inflammation bruyante due à un superantigène responsable d'une réaction inflammatoire explosive avec prolifération bactérienne peu intense (hémoc + dans 5% des cas)</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "e.+U>`|R4o",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Qu'est ce que c'est ?<div>&nbsp;<img src=\"erysipele.jpg\"></div>",
-                        "Erysipèle MI&nbsp;"
-                    ],
-                    "flags": 0,
-                    "guid": "ge61M:(hSC",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Diagnostic clinique d'érysipèle ?&nbsp;",
-                        "<span class=\"bold_red\">Placard inflammatoire</span>&nbsp;(rouge, chaud, douloureux) brutal, extension rapide, unilatéral&nbsp;<br><div><span style=\"color: red; font-weight: bold;\">Bourrelet périphérique</span>&nbsp;: limite nette et surelevée du placard inflammatoire ++ au visage&nbsp;</div><div>Décollement bulleux et purpura localisé possible (pas signe de gravité)&nbsp;</div><div><span class=\"bold_red\">Fièvre +/- frissons&nbsp;</span><br></div><div><span class=\"bold_red\" style=\"font-weight: normal;\"><font color=\"#000000\">ADP satellite et/ou lymphangite inconstante</font></span></div><div><span class=\"bold_red\" style=\"\"><font color=\"#000000\" style=\"\"><span style=\"font-weight: normal;\">Localisation : </span>MI +++<span style=\"font-weight: normal;\"> visage 10% MS (atcd de curage gg axillaire)&nbsp;</span></font></span></div><div><span class=\"bold_red\" style=\"font-weight: normal;\"><font color=\"#000000\">Porte entrée retrouvée 3/4 (intertrigo, piqure, plaie)&nbsp;</font></span></div><div><span class=\"bold_red\" style=\"font-weight: normal;\"><font color=\"#000000\">Terrain : lymphoedeme, insuffisance veineuse, obésité</font></span></div><div><span class=\"bold_red\" style=\"font-weight: normal;\"><font color=\"#000000\"><br></font></span></div><div><span class=\"bold_red\" style=\"font-weight: normal;\"><font color=\"#000000\">Signes négatifs :&nbsp;</font></span><span style=\"color: red; font-weight: bold;\">PAS DE SIGNE DE GRAVITE OU SEPSIS, PAS DE NECROSE !!!&nbsp;</span></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "m{erl@D>~E",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Orientation diagnostic devant une grosse jambe rouge aigue ?",
-                        "<img src=\"paste-5b2f68ef5572d4a216a9bcef3611adf93295edea.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "An&zrh9>S?",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Evolution d'un érysipèle ?&nbsp;",
-                        "Regression douleur et fièvre en 48-72h&nbsp;<div>Oedeme et placard inflammatoire en 1 à 2 semaines&nbsp;</div><div>Absence amélioration : abcès sous cutané ou forme nécrosante à bas bruit, ou étiologie non streptococcique&nbsp;</div><div>Mortalité &lt; 1%&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "y<%3ycV`.G",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Examen complémentaire devant un érysipèle typique ?&nbsp;",
-                        "<div><span class=\"bold_red\">Aucun en cas de forme typique non compliquée&nbsp;</span></div><div>NFS CRP : Sd inflammatoire bio&nbsp;</div><div><b><u><i>Prélèvement de la porte d'entrée ou hémoculture que si </i></u></b>: morsure animale ou humaine, voyage, survenue en milieu aquatique, post traumatique, ID, nosocomial, signe de gravité locaux ou généraux.</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ce*j||Qe:J",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "PEC d'un érysipèle&nbsp;",
-                        "<div><u><b>Orientation :</b></u>&nbsp;</div>- Ambulatoire ++<div>- Hospitalisation si : doute, signe de gravité locaux ou généraux, risque de décompensation pathologie (DT, IC), impossibilité de surveillance ou traitement médical à domicile, &gt; 75 ans, obésité morbide ou &lt; 1 an ; aucune amélioration dans les 72h ou extension sous TTT&nbsp;</div><div><br></div><div><u><b>ATB :</b></u>&nbsp;</div><div>1) <font color=\"#00aa00\">Amoxicilline</font> PO posologie adaptée au poids 7J&nbsp;</div><div>2) <font color=\"#00aa00\">Pristinamycine</font> PO si allergie ou <font color=\"#00aa00\">clindamycine</font>&nbsp;</div><div><br></div><div><u><b>TTT SPT :</b></u> antalgique, repos au lit avec surelevation MI, TAC si FDR de thrombose, TTT porte entrée, prévention anti-tétanique si nécessaire&nbsp;</div><div><u><b>Prévention des récidives 30%</b></u> : TTT porte entrée et facteurs favorisants ; TTT insuffisance veino-lymphatique après épisode aigu (drainage, contention 3 semaine, perte de poids) ; injection benzathine benzylpénicilline toutes les 2-3 semaines pdt 6M si 2 épisodes/an - échec des mesures précédentes&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "cl0^d!Ovx5",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Qu'est ce que c'est ?&nbsp;<img src=\"Necrotizing_fasciitis_left_leg.JPEG\">",
-                        "Dermo-hypodermite bactérienne aigue <b>nécrosante</b> et fasciite nécrosante&nbsp;"
-                    ],
-                    "flags": 0,
-                    "guid": "o]rwI789~T",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Physiopathologie de la fasciite nécrosante ?&nbsp;",
-                        "- Prolifération bactérienne intense avec <b>nécrose</b>&nbsp;<div>- Nécrose évolue <b>de la profondeur (hypoderme) =&gt; superficie</b> = URGENCE MEDICO CHIR&nbsp;</div><div>- 30 % mortalité, moins fqt que l'érysipèle&nbsp;</div><div>- Bactéries :&nbsp;<span style=\"color: red; font-weight: bold;\">streptocoque pyogènes + d'autres bactéries&nbsp;</span></div><div>- Terrain : DT (1/4), atériopathie, mauvais état général&nbsp;</div><div>- Prise d'AINS suspectée de favoriser évolution nécrosante&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "PHw*Q!EggE",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Signes devant faire suspecter une forme d'érysipèle nécrosant =&gt; fasciite nécrosante ?&nbsp;",
-                        "- <b>Signes de gravité du sepsis&nbsp;</b><div>- <b>Douleurs intense non soulagée</b> par palier 1 ou 2 , s'étendant au dela des zones inflammatoires&nbsp;</div><div>- <b>Induration</b> des tissus au dela des lésions visbles&nbsp;</div><div>- Rapidement extensif&nbsp;</div><div>- Plus tardifs : placard gris <b>hypoesthésiques</b> au toucher</div><div>- Crépitation possible si asso avec B anaérobies&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "N?=q~[-{=$",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Localisation des dermo-hypodermites bactérienne nécrosantes ?&nbsp;",
-                        "- MI +++<div>- Cervico-faciale (après chir ORL, risque médiastinite)</div><div>- Thoraco-abdominales (après chir thoracique ou abdo)</div><div>- Perinéal (gangrène de Fournier) : chir dig ou uro&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "A%C)+;?^5f",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Bilan devant une dermo-hypodermite bactérienne nécrosante ?&nbsp;",
-                        "- URGENCE !!&nbsp;<div>-&nbsp;<span style=\"color: red; font-weight: bold;\">Bilan pré-op</span></div><div>-&nbsp;<span style=\"color: red; font-weight: bold;\">Hémocultures, prélevement per op (aérobies, anaérobies)&nbsp;</span></div><div>- Pas d'imagerie à ce stade&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "FE$94)SYES",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "TTT des dermo-hypodermite bactérienne nécrosantes?",
-                        "- <font color=\"#00aa00\">Débridement chir large des tissus nécrosés</font> avec reprise les jours suivant si besoin (amputation parfois necessaire, derivation dig colostomie de décharge et/ou urinaires)&nbsp;<div>-&nbsp;<span style=\"font-weight: bold;\"><font color=\"#00aa00\">ATB IV forte dose :</font></span><span style=\"color: red; font-weight: bold;\">&nbsp;</span></div><div>- <u>MI ou cervico-faciale</u> :&nbsp;<span style=\"font-weight: bold;\"><font color=\"#00aa00\">Amoxicilline + acide clavulanique + clindamycine&nbsp;</font></span></div><div>- <u>Abdomino-périnéale</u> : <b><font color=\"#00aa00\">Pipéracilline + tazobactam&nbsp;</font></b></div><div><br></div><div>Adaptation de l'ATB aux prlvmt perop</div><div>Durée : <b>14 à 21j&nbsp;</b></div><div>PEC spt&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "rv`0nqMUsS",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Diagnostic et TTT d'un intertrigo-inguino-scrotal à candida albicans ?&nbsp;",
-                        "Diagnostic&nbsp;<span class=\"bold_red\">clinique</span>&nbsp;++&nbsp;<div>TTT : <font color=\"#00aa00\">supp facteur favorisants </font>(éviter macération : sous vetement en coton, séchage après toilette) + <font color=\"#00aa00\">TTT topique amphotéricine B ou azolé 2x/j pdt 2 sem</font></div><div><img src=\"paste-8ab764eeb1b07d1bd1663249e750ff45a3ce154c.jpg\"><font color=\"#00aa00\"><br></font></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "z:pZ7[MNnw",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Diagnostic et TTT d'un périonyxis (onyxis) à Candida albicans ?&nbsp;",
-                        "<u><b>Diagnostic</b></u> : <font color=\"#0000ff\">prélevement du pus à écouvillon pour ED et culture&nbsp;</font><div>DD≠ : peri-onyxis bactérien à staph doré ou streptocoque ; onyxis à dermatophytes</div><div><u><b>TTT</b></u> : port de gants, antifongique azolé systémique : <font color=\"#00aa00\">fluconazole</font>&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "H!WYwOJ~Z;",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Candidose buccale : clinique ? facteur favorisant ? Diagnostic ? TTT ?&nbsp;",
-                        "<div><u><b>Clinique</b></u> : langue et muqueuse jugale inflammatoire + brulure =&gt; enduits blanc +/- confluent (muguet) ; perlèche fqt associée&nbsp;</div><div><u><b>Facteurs favorisant </b></u>: âge (extremes), prothèse dentaire, ATB systémique, ID</div><div>Si pas de facteur favorisant ou recidives ++ : depister VIH&nbsp;</div><div>Diagnostic clinique&nbsp;</div><div><u><b>TTT</b></u> : <font color=\"#00aa00\">fluconazole</font> 7 à 14J =&gt; absence de dysphagie évoquant candidose oesophagienne (TTT 14 - 21J)</div><img src=\"dermatologie-dermatologie-photographie-candidose-buccale-muguet-lEDmbptHAi.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "G?OR1Y9#Hd",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Infection cutanées à Malassezia furfur",
-                        "Levure <b>lipophile</b> commensale : prolifération sur peau grasse favorisée par sudation, humidité, chaleur&nbsp;<div>- Pityriasis versicolor&nbsp;</div><div>- Dermite seborrhique&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "FY]Bm0R`ah",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Pityriasis versicolor&nbsp;",
-                        "- Macules individualisée puis confluentes, rosées, chamois, achromique après exposition solaire<div>- Non prurit&nbsp;</div><div>- Cou et partie supérieure du tronc&nbsp;</div><div>- Diagnostic : scotch test cutané + examen microscopique&nbsp;</div><div>- TTT : gel moussant kétoconazole à répéter 48h&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "F<]+]U<<kL",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Dermite séborrhéique&nbsp;",
-                        "- Dermatose chronique fréquente 1-3% de la population&nbsp;<div>- <b>Visage</b> ++</div><div>- Plaques +/- erythémateuses, recouvertes de petits squames gras blanc dans zone de seborrhée : sillon naso-labial, sourcil, glabelle, lisière antérieure du cuir chevelu, prurit possible&nbsp;</div><div><img src=\"ob_f220b4_image-dermite.jpg\"><br></div><div>- Surtout homme adulte&nbsp;</div><div>- Formes cliniques : cuir chevelu (pityriasis capitis fqt chez nourrisson \"croutes de lait\"), formes érythrodermique étendyes&nbsp;</div><div>- Facteur fav : parkinson, VIH, Sd extra-pyramidaux iatrogène, alcoolisme chronique&nbsp;</div><div>- Diagnostic : clinique&nbsp;</div><div>- TTT : <font color=\"#00aa00\">Kétoconazol gel moussant</font> ou<font color=\"#00aa00\"> ciclopiroxolamine en topique</font> +/- <font color=\"#00aa00\">dermocorticoides</font> dans formes très inflammatoires&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Jry}$kN1^f",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Dermatophytes généralités",
-                        "<u><b>3 genres de dermatophytes</b></u> : <i>Microsporum sp, Epidermophyton sp, Trichophyton sp&nbsp;</i><div>3 reservoirs : telluriques, humain, animal&nbsp;</div><div><b>Pas d'atteinte muqueuses&nbsp;</b></div><div>Diagnostic : prévelement myco : ED + culture&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "P$wa%m&aEt",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "cb61aa15ad3042fca096f72c4ba9751d-oa-1",
-                        "",
-                        "<img src=\"tmp9d80bhfh.png\" />",
-                        "<img src=\"cb61aa15ad3042fca096f72c4ba9751d-oa-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"cb61aa15ad3042fca096f72c4ba9751d-oa-1-A.svg\" />",
-                        "<img src=\"cb61aa15ad3042fca096f72c4ba9751d-oa-O.svg\" />"
-                    ],
-                    "flags": 0,
-                    "guid": "PoI#W|!n1B",
-                    "note_model_uuid": "f951bfc6-48f4-11ea-bded-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "cb61aa15ad3042fca096f72c4ba9751d-oa-2",
-                        "",
-                        "<img src=\"tmp9d80bhfh.png\" />",
-                        "<img src=\"cb61aa15ad3042fca096f72c4ba9751d-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"cb61aa15ad3042fca096f72c4ba9751d-oa-2-A.svg\" />",
-                        "<img src=\"cb61aa15ad3042fca096f72c4ba9751d-oa-O.svg\" />"
-                    ],
-                    "flags": 0,
-                    "guid": "eGP$:tTP~!",
-                    "note_model_uuid": "f951bfc6-48f4-11ea-bded-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Qu'est ce que c'est ?<div>&nbsp;<span class=\"bold_underlined\"></span><img src=\"220px-Onychomycosis_due_to_Trychophyton_rubrum,_right_and_left_great_toe_PHIL_579_lores.jpg\"></div>",
-                        "Dermatophytie à trichophytone rubrum d'un doit avec onyxis&nbsp;<div>=&gt; prelevement pour rechercher dermatophyte&nbsp;</div><div><u>TTT long et difficile</u> : meulage ongle, <b><font color=\"#00aa00\">vernis antifongisque</font></b> pour formes <i>peu étendues sans atteinte matricielle 3-6mois pour les mains, 6-9mois pour les pieds</i>, <b><font color=\"#00aa00\">+ terbinafine PO </font></b><i>3M pour les mains, 6M orteils si atteinte etendue ou matricielle</i> + <b><font color=\"#00aa00\">ttt des chaussures par antifongiques&nbsp;</font></b></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "AxJR7No+[Y",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Qu'est ce que c'est ?<div>&nbsp;<img src=\"teignes.jpg\"></div>",
-                        "<span class=\"bold_red\">Teigne tondante&nbsp;</span>: enfant ++ contamination interhumaine ou animaux&nbsp;<div>Plaque alopécie cuir chevelu : grandes plaques (teigne microsporique) ou petites plaques (teigne trichophytique)</div><div><span style=\"color: red; font-weight: bold;\">Tout état squameux, crouteux ou pustuleux du cuir chevelu est une teigne</span><b>&nbsp;JSQPDC</b></div><div>Favorisée par corticoides locaux&nbsp;</div><div><font color=\"#0000ff\">Prelevement systématique mycologique : ED + culture&nbsp;</font></div><div><u><b>TTT débuté des ED + </b></u>: local par<font color=\"#00aa00\"> dérivé azolé ou ciclopiroxolamine </font>+ oral <font color=\"#00aa00\">terbinafine 4 semaines</font>,<font color=\"#00aa00\"> itraconazole 6 semaines </font>ou <font color=\"#00aa00\">griséofulvine 8 semaines</font> (seule possible chez enfant)&nbsp;</div><div>Pas d'éviction scolaire si ttt débuté&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "d2#W5vN42N",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "f951cd5e-48f4-11ea-94e3-acde48001122",
-            "deck_config_uuid": "f92aef22-48f4-11ea-bd74-acde48001122",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "_editor_button_styles.css",
-                "paste-0f914ffef1714e8f7baa0af03927a563fde562ce.jpg",
-                "paste-3ea3bcab8169eeb8865d5acdeb39f7b5762e787f.jpg",
-                "paste-4120ee8d196b8ea16f8ce9edc9883f6068d0c49c.jpg",
-                "paste-5167830efec5ecd0e444facd3876d37d303141ab.jpg",
-                "paste-b102b0559513a0a8cca7f2b0c808f1f45401ecb7.jpg",
-                "paste-b246e201ab4c623ee27faa3bc4e030b4de195c59.jpg",
-                "paste-f0d907d111a29252fbe71538a89601c2987f6389.jpg"
-            ],
-            "name": "Endocardite infectieuse",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Qu'est ce qu'une endocardite infectieuse (EI)?&nbsp;",
-                        "Infection d'une ou plusieurs valves cardiaques (natives ou prothétiques) par une bactérie ++ ou champignon&nbsp;<div>Agent inf : gagne circulation sanguine via porte d'entrée à rechercher et traiter puis se fixe a/n valve&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "dqAv2tY!&;",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Agents infectieux des EI et leur portes d'entrée ?",
-                        "<img src=\"paste-4120ee8d196b8ea16f8ce9edc9883f6068d0c49c.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "HR!X8m&yO>",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Cardiopathies à risque d'EI : groupe A et groupe B ?&nbsp;",
-                        "<img src=\"paste-b246e201ab4c623ee27faa3bc4e030b4de195c59.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "j)@HPj#;/X",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "La greffe bactérienne au niveau de l'endocarde va développer quoi comme lésions infectieuses ?&nbsp;",
-                        "- Végétations : amas de fibrine, plq, agent infectieux =&gt; emboliser dans circulation sanguine : foyer infectieux à distance ou accidents ischémiques&nbsp;<div>- Destruction valvulaire, abcès, perforation =&gt; IC&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "P{zUcwwVUq",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Epidémiologie de l'EI ?&nbsp;",
-                        "- Rare (35 cas/M d'habitants en France) et grave (mortalité hospitalière 20%)<div>- <b>Homme</b> ++&nbsp;</div><div>- <b>&gt; 70 ans</b>&nbsp;</div><div>-<b style=\"\"> <u>Facteurs favorisants EI</u></b> : toxicomanie IV, prothèses valvulaires, scléroses valvulaires dégénératives, actes invasifs à risque de bactériémie, dispositifs intra-cardiaque</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "pul,EL=9[+",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Agents infectieux les plus souvent responsable d'EI ?",
-                        "-&nbsp;<span class=\"bold_red\">Staph aureus</span>&nbsp;le + fqt&nbsp;<div>- <b>SCN</b> augmente ++ sur les EI sur prothèse&nbsp;</div><div>- <b>Streptocoque</b> : oraux d'origine buccodentaire et gallolyticus d'origine digestive&nbsp;</div><div>- Bactérie à croissance lente : groupe HACEK (streptocoque déficient..) : détection favorisée par incubation prolongée des flacons d'hémocultures jsq 14J&nbsp;</div><div>- 5-10% : hémocultures négatives, agent inf pas identifié&nbsp; =&gt; soit ATB préalable soit bactérie IC non cultivable sur milieu standard&nbsp;</div><div><img src=\"paste-5167830efec5ecd0e444facd3876d37d303141ab.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "xHt1B`H)9s",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Diagnostic positif d'EI evoqué devant ?",
-                        "<b>Fièvre</b> + <b>souffle</b> cardiaque nouveau ou modifié ou <b>infection multifocale</b> et/ou <b>mise en évidence agent infectieux&nbsp;</b><div><b>Confirmé par une anomalie intracardiaque</b></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "KFIFjlG19.",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Toute fièvre inexpliquée chez un patient ayant une valvulopathie&nbsp;",
-                        "est une endocardite JSQPDC"
-                    ],
-                    "flags": 0,
-                    "guid": "osi^AYN+t7",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Synthèse physiopathologie et diagnostic d'une endocardite infectieuse (à connaitre par coeur!!)",
-                        "<img src=\"paste-0f914ffef1714e8f7baa0af03927a563fde562ce.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "M%%?gxM(;;",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Si suspicion d'EI : bilan ?",
-                        "-&nbsp;<span class=\"bold_red\">Bilan diagnostic initial :</span><div><font color=\"#0000ff\"><b><u>CLINIQUE</u></b></font>&nbsp;<br><div><u>Forme typique</u> : signes généraux (fièvre + AEG) + signes cardiaque (nvx souffle ou modif) + signes extra-cardiaques (localisation infectieuses IIr ou emboliques cérébrales ou extra-cérébrales, immunologiques)&nbsp;</div><div><u>Forme trompeuses </u>: fièvre nue aigue ou prolongée, arthralgies, lombalgie fébrile, complication inaugurale (IC fébrile, signes neuro fébriles, emboles) ; alternance épisodes fièvre - apyrexie (récidive de la fièvre à arrêt ATB évocateur)</div><div><br></div><div><u><b><font color=\"#0000ff\">HEMOCULTURE</font></b></u>&nbsp;</div><div>40-60 mL (3 paires d'hémocultures aéro-anaérobies) : 3 prélevements sur 24h espacés d'1h sur des veines distinctes ou 2-3 hémocultures en &lt; 1h si sepsis&nbsp;</div><div>=&gt; si hémoculture négatives :&nbsp;</div><div>- à cause d'ATB préalables : arret ATB et répéter hémocultures 72h après si pas de critères de gravité nécessitant TTT urgent&nbsp;</div><div>- si pas ATB préalable : sérologies <i>Coxiella burnetti </i>et <i>Bartonella spp</i></div><div>Si chirurgie valvulaire : envoie au labo végétation, valve, abcès embole pour culture et histologie&nbsp;</div><div><br></div><div><u><b><font color=\"#0000ff\">ECHOGRAPHIE CARDIAQUE</font></b></u>&nbsp;</div><div>1) <font color=\"#0000ff\"><b>ETT</b></font> à réaliser dès que hémoculture +&nbsp;</div><div>2) <b><font color=\"#0000ff\">ETO</font></b> (+ sensible 90% &gt; 70% ETT)&nbsp;</div><div>=&gt; <u>affirme le diagnostic si montre</u> : végétation, perforation valvulaire, abcès perivalvulaire, septal, desinsertion prothétique&nbsp;</div><div>- Si forte présomption et echo neg : repéter 7 à 10j plus tard&nbsp;</div><div>-&nbsp;<span style=\"color: red; font-weight: bold;\">Echographie normale n'élimine pas le diagnostic !&nbsp;</span></div><div>3) TEP scanner..</div><div><br></div></div><div>-&nbsp;<span class=\"bold_red\">Recherche de critères de gravité</span>&nbsp;: IC non maitrisée, choc hémodynamique, choc septique&nbsp;</div><div>-&nbsp;<span class=\"bold_red\">Recherche de localisation extra-cardiaque sur pt d'appel</span>&nbsp;: TDM AP, IRM c&nbsp;</div><div>-&nbsp;<span class=\"bold_red\">PEC de la porte d'entrée si évidente et au premier plan&nbsp;</span>(abcès dentaire, infection sur KT)</div><div><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Fq5>O):uuw",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Manifestation immunologiques d'EI ?&nbsp;",
-                        "Purpura vasculaire&nbsp;<div>Faux panaris d'Osler (nodosités douloureuses fugaces, siègeant à la pulpe des doigts ou des orteils)&nbsp;</div><div>Erythème palmoplantaire de Janeway&nbsp;</div><div><img src=\"paste-3ea3bcab8169eeb8865d5acdeb39f7b5762e787f.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "n4tJwdr5:]",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "4 facteurs de risque de mortalité dans l'EI communautaire ?&nbsp;",
-                        "- Âge&nbsp;<div>- Staph aureus&nbsp;</div><div>- Complication cérébrale&nbsp;</div><div>- IC&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "o<Z.j3_qS?",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Critère d'hospitalisation d'EI ?",
-                        "La PEC d'une EI est systématiquement hospitalière par équipe multidisciplinaire habituée"
-                    ],
-                    "flags": 0,
-                    "guid": "x,Brg4IYFm",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Quand mettre une ATB probabiliste dans une EI ?&nbsp;",
-                        "Juste après les hémocultures si : <b>sepsis ou choc septique</b>, <b>forte suspicion d'EI clinique</b> (++ si imageries évocatrices),<b> indication de chirurgie valvulaire en urgence&nbsp;</b><div>Sinon =&gt; ATB documentée adaptée aux résultats de l'hémoculture&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "C=e_1Ses`C",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Quelle ATB mettre en <b>probabiliste</b> et <b>adaptée</b> aux résultats de l'hémoculture dans une EI ?&nbsp;",
-                        "<b><u><font color=\"#00aa00\">ATB probabiliste :</font></u></b>&nbsp;<div>- EI sur <b>valve native ou prothèse &gt; 1 an</b> =&gt; <b><font color=\"#00aa00\">amoxicilline + (cl)oxacilline + gentamycine</font></b>&nbsp;</div><div>- EI précoce sur <b>prothèse &lt; 1 an</b> =&gt; <b><font color=\"#00aa00\">vancomycine + gentamycine + rifampicine</font></b>&nbsp;</div><div><br></div><div><b><u>ATB adaptée aux germes des hémocultures</u></b> : <b><font color=\"#00aa00\">ß-lactamines</font></b> forte dose IV + <b><font color=\"#00aa00\">gentamycine</font></b> au debut du TTT si <i>streptocoque sur valve native compliquée</i> ou <i>prothèse</i> ou EI à <i>entérocoque&nbsp;</i></div><div>- Si allergie ß-lactamines : <b><font color=\"#00aa00\">glycopeptide (vancomycine) ou daptomycine&nbsp;</font></b></div><div><br></div><div>Durée : <b>4 à 6 semaines&nbsp;</b></div><div><b><br></b></div><div>Surveillance de l'efficacité (courbe T°, stérilisation hémoc, évolution anomalie échocardiographique, régression Sd inf) et tolérance (fct rénale, dosage plasmatique vanco et gentamycine)&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Huz$0?8o1C",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Indication d'une chirurgie valvulaire dans une EI ?&nbsp;",
-                        "- Insuffisance cardiaque réfractaire au TTT médical&nbsp;<div>- Infection non maitrisée malgré ATB bien conduite&nbsp;</div><div>- Prévention risque embolique si végétation gde taille&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "diVSw<@.}v",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Choix de la ß-lactamine en fct de l'agent infectieux de l'EI ?&nbsp;",
-                        "<img src=\"paste-f0d907d111a29252fbe71538a89601c2987f6389.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "kl8syk,mUQ",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Place des traitements anticoagulant et anti-aggrégant dans l'EI ?",
-                        "- Pas d'introduction des TAC et TAG dans EI&nbsp;<div>- Patient deja sous TAC : poursuivi si indispensable (prothèse valvulaire mécanique, FA) ; AVK switch avec HNF pdt 2 premières semaines&nbsp;</div><div>- Survenue hémorragie cérébrale : arrêt de tout TAC&nbsp;<span class=\"bold_red\">SAUF SI PROTHESE VALVULAIRE MECANIQUE ++</span>&nbsp;=&gt; avis spécialisé&nbsp;</div><div>- Patient deja sous TAG : poursuivi sauf en cas d'hémorragie majeure&nbsp;</div><div>- HBPM à dose iso-coagulante pas CI&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "QumXW(36xw",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Recherche, bilan et traitement de toute porte d'entrée d'EI ?&nbsp;",
-                        "<img src=\"paste-b102b0559513a0a8cca7f2b0c808f1f45401ecb7.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "KUI00E0k3F",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Surveillance biologique et cardiologique d'une EI traitée ?&nbsp;",
-                        "Hémocultures quotidiennes systématique jsq stérilisation&nbsp;<div>Dosage de la vancomycine et gentamycine&nbsp;</div><div>Créatininémie régulière</div><div>CRP&nbsp;</div><div><br></div><div>ECG + ETT&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "v{3y+_!uJ4",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Prévention primaire d'EI si cardiopathie à risque ?",
-                        "- Dentiste 1 à 2x/an&nbsp;<div>- Suivi cardio régulier&nbsp;</div><div>- Hygiène cutanée&nbsp;</div><div>- Cs si fièvre et exploration si fièvre sans cause évidente&nbsp;</div><div>- Limiter gestes invasifs endo-vasculaires&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "j93?k^Z^:0",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Place de l'ATB prophylaxie de l'EI ?",
-                        "Que chez patient à haut risque d'EI : prothèse valvulaire, ATCD EI, cardiopathie congénitale cyanogène ET soins dentaire à haut risque (manip gencive, région péri-apicale, effraction muqueuse)&nbsp;<div><br></div><div>=&gt; Amoxicilline PO dose unique dans l'h avant le geste&nbsp;</div><div>=&gt; si allergie : clindamycine&nbsp;</div><div>Carte de patient à risque d'EI&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "kU7,Hd[ZSb",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "f9521b62-48f4-11ea-9d41-acde48001122",
-            "deck_config_uuid": "f92aef22-48f4-11ea-bd74-acde48001122",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "_editor_button_styles.css",
-                "paste-30e8759b4a7acbaa4e15645888ec2a70a13163e9.jpg",
-                "paste-35ce6b07a41271dfc5decc8921ca5e05bcfe5ea2.jpg",
-                "paste-390cf6f44017c1ab33fc330276545d71070785e9.jpg",
-                "paste-8ed04ac71a7dc5045cb7153ea8b021286ba4cab3.jpg",
-                "paste-9018c5b09a5b3827cd3829781b5b73d8cc2fc0fe.jpg",
-                "paste-c2172664f2758f7ddb50f004150eadd6486fc92f.jpg",
-                "paste-d8a512cf6f44d566f12cf985290538a3cd7c9a01.jpg",
-                "paste-fed3974b40540013979c1a6079ca9cdc128fc953.jpg"
-            ],
-            "name": "Bactériémie et fongémie ",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Epidémiologies des bactériémies/fongémies ?&nbsp;",
-                        "- 1% des patients hospitalisés&nbsp;<div>- 1/4 des B/F sont associées à un sepsis/choc septique&nbsp;</div><div>- 40% des sepsis/choc septique sont associés à une bactériemie&nbsp;</div><div><img src=\"paste-9018c5b09a5b3827cd3829781b5b73d8cc2fc0fe.jpg\"><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "ru@LBuvZil",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Quand faire des hémocultures devant une suspicion de bactériémie ?",
-                        "Suspicion clinique : fièvre élevée +/- frissons intenses, foyers infectieux multiples ou chez un patient neutropénique ou porteur de matériel étranger (KTc)<div>Rare : hypothermie (++ bactériémie à entérobactéries)</div><div>Pas besoin de les réaliser au pic de fièvre ou d'hypothermie ou de frissons&nbsp;</div><div>Certaines circonstances =&gt; âge, ID, CTC, ttt anti-pyrétique : hémoc même sans fièvre&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "rX8`$i;0]2",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Comment interpréter des hémocultures positives ?&nbsp;",
-                        "<u><b>Plusieurs hémocultures sont +</b></u> : majorité : même germe isolé sur plusieurs flacons, certaines situations (neutropénie, foyer digestif, fistule vasculaire) plusieurs agents sur les hémocultures&nbsp;<div><b><u>Une seule hémoculture + :</u></b>&nbsp;</div><div>- agents infectieux tjrs pathogènes : staph aureus, pneumocoque, E. Coli, enterobactéries, pyo, brucella, listéria, pasteurella, candida..&nbsp;</div><div>- agents eventuellements contaminants (appartiennent à la flore cutanée et sont peu pathogène) : SCN, cutibactérium acnes, corynebactérium spp, bacillus</div><div>=&gt; pour conclure bactériemie : contexte clinique compatible (présence de matériel étranger, porte entrée cutanée, neutropénie..) <b>au moins 2 flacons d'hémocultures de 2 paires différentes positive au meme agent infectieux</b></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "k4**(tBGG8",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "CAT devant une suspicion de bactériemie/fongémie&nbsp;",
-                        "1) <font color=\"#0000ff\"><b>HEMOCULTURES</b></font>&nbsp;<div>2) Recherche des&nbsp;<span class=\"bold_red\">signes de gravités</span>&nbsp;: sepsis, choc septique, ID (IS, neutropénie, asplénie)</div><div>3) Rechercher porte d'entrée et localisations septiques secondaires&nbsp;</div><div>4)&nbsp;<span style=\"font-weight: bold;\"><font color=\"#00aa00\">TTT ATB&nbsp;</font></span></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "guMQRn=ty6",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Définition sepsis ?&nbsp;",
-                        "- Réponse inappropriée de l'hôte envers une infection entrainant une&nbsp;<span class=\"bold_red\">dysfonction d'organe.&nbsp;</span><div>- Retenu si <font color=\"#0000ff\"><b>score SOFA = 2 ou augmente de 2</b></font> (Sepsis-related Organ Failure Assesment) =&gt; repose sur paramètres cliniques et biologiques : fonctions rénales, respiratoires, neurologiques, CV, hépatique et hémostase.&nbsp;</div><div>- <b><font color=\"#0000ff\">quickSOFA</font></b> : sepsis retenu si <b><u>au moins 2 des critères</u></b> : FR &gt;= 22/min ; confusion ; PAS =&lt; 100 mmHg&nbsp;</div><div><img src=\"paste-390cf6f44017c1ab33fc330276545d71070785e9.jpg\"><br></div><span class=\"bg_yellow\"></span>"
-                    ],
-                    "flags": 0,
-                    "guid": "DD,Z-Dk$!`",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Définition choc septique ?&nbsp;",
-                        "<u><b>Association de :</b></u>&nbsp;<div>- <b>sepsis</b>&nbsp;</div><div>- nécessité de <b>vasopresseurs</b> pour atteindre PAM &gt;= 65 mmHg&nbsp;</div><div>- <b>lactates &gt; 2 mmol/L&nbsp;</b></div><div>- malgré <b>correction</b> hypovolémie&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Kav*(&V^]-",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Quels agents infectieux sont associés à quelles portes d'entrée/foyer infectieux ?&nbsp;",
-                        "<img src=\"paste-c2172664f2758f7ddb50f004150eadd6486fc92f.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "PBnPH<Z1nw",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Recherche des foyers septiques secondaire systématique lors d'une bactériémie ?&nbsp;",
-                        "- ETT : recherche endocardite si agents infectieux fréquent (staphylocoque aureus, streptocoque, entérocoque, candida)<div>- FO si candidémie</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "IKl5_98Uaq",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Quand débuter un TTT ATB devant une bactériémie ?&nbsp;",
-                        "- <b>D'emblée</b> si <b>sepsis/choc septique</b>, <b>neutropénie</b>, ou <b>asplénie</b> et/ou des qu'un <b>foyer d'infection bactérienne est identifié</b> =&gt;&nbsp;<span class=\"bold_red\">urgence thérapeutique&nbsp;</span><div>- Des bactériémie confirmée par ED+ si tableau fébrile sans foyer infectieux identifié sans signe de gravité&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "Q*O%w{DmIF",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Biomarqueurs inflammatoires CRP, PCT dans la bactériémie ?",
-                        "Non spécifique, orientation uniquement, une PCT &lt; 0,25 ng/mL rend peu probable une bactériemie/fongémie<div>Pas systématique</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "l[>FOeq(U7",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Antibiothérapie devant une bactériémie ?&nbsp;",
-                        "- Probabiliste d'abord adaptée à ED puis adaptée aux résultats de l'ATBg et identification&nbsp;<div>- IV avec relais PO si bonne biodispo si pas de signe de gravité, endocardite, vomissement, malabsorption&nbsp;</div><div>- Bactéricide&nbsp;</div><div>- Indication de bithérapie : élargir spectre (sepsis nosocomial : ßlactamine + vancomycine) ; augmenter la vitesse de bactéricidie (sepsis et surtout avec choc septique : ßlactamine + aminoside) limiter les mutants résistants&nbsp;</div><div>- Durée 5 à 10J voir 14J sauf endocardite&nbsp;</div><span class=\"bg_yellow\"></span>"
-                    ],
-                    "flags": 0,
-                    "guid": "B16K*#`N:2",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Bactériémie : ATB probabiliste si signes de gravités ?&nbsp;",
-                        "<img src=\"paste-30e8759b4a7acbaa4e15645888ec2a70a13163e9.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "oK;:zt2Z/&",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Bactériémie : ATB en cas de cocci gram + ?&nbsp;",
-                        "<img src=\"paste-d8a512cf6f44d566f12cf985290538a3cd7c9a01.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "G_$R|CSa,P",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Bactériemie : ATB en cas de bacilles gram négatif ?&nbsp;",
-                        "<img src=\"paste-fed3974b40540013979c1a6079ca9cdc128fc953.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "cW[^a.nfm#",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Fongémie à levure ?",
-                        "++ levure du genre <i>Candida</i>&nbsp;<div>=&gt; probabiliste : échinocandine IV (caspofungine, micafungine)</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "x@.=fQ>nSJ",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Bactériémie : ATB adaptée à l'agent infectieux ?",
-                        "<img src=\"paste-8ed04ac71a7dc5045cb7153ea8b021286ba4cab3.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "nN9wOEAbUB",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Cas particulier des bactériémies à Staphylococcus aureus ?&nbsp;",
-                        "- ED : cocci gram + en amas&nbsp;<div>- Profil habituel de sensibilité aux ATB : SASM en communautaires, SARM 20% des cas en nosocomial&nbsp;</div><div>- 1/3 de la pop porte staph aureus : FN, aisselles, périnée</div><div>- Bactériémie a staph sont grave : métastases septiques, association à endocardite 10%, risque de choc septique&nbsp;</div><div>- Porte entrée inconnue dans 30% des cas&nbsp;</div><div>- Avis spécialisé demandé&nbsp;</div><div>=&gt;&nbsp;<span style=\"color: red; font-weight: bold;\">EC complet à la recherche de localisation septiques secondaire (coeur, os..) + systématiqueemnt ETT&nbsp;</span></div><div><u><b>ATB</b></u> : <b>monothérapie</b> : <font color=\"#00aa00\">pénicilline M </font>IV ou <font color=\"#00aa00\">céfazoline</font> (<b><u>SASM</u></b>) ou <font color=\"#00aa00\">vancomycine</font> ou <font color=\"#00aa00\">daptomycine</font> (<u><b>SARM</b></u>)</div><div><b>Bithérapie si signes de gravité ou suspicion endocardite sur valve prothétique</b> : association&nbsp;<span class=\"bold_red\" style=\"font-weight: normal;\"><font color=\"#00aa00\">gentamycine</font></span>&nbsp;puis <font color=\"#00aa00\">rifampicine</font></div><div>- 14 jours IV si pas de signe de complication&nbsp;</div><div>- Sinon 2 à 6 semaines (abcès non drainé, endocardite..)</div><div>- Controler la négativation des hémocultures sous TTT (48h) : si restent + : localisation septiques IIr ou infection endovasculaire (endocardite++)</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "DC~l%vz@$M",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Cas particulier des fongémies ?",
-                        "- Plusieurs espèces de Candida impliquées : C. <i>albicans</i> ; C. <i>glabrata</i>, C. <i>parapsilosis</i>, C. <i>tropicalis</i>, C. <i>krusei</i>&nbsp;<div>-<i> </i>Appartient à la flore commensale de la cavité buccale et dig&nbsp;</div><div>- Presque toujours associé aux soins et survient sur terrain à risque : ID, ATB préalable, VVC, chir abdominale itérative</div><div>- Porte d'entrée les + fqt :&nbsp;</div><div>- KT vasculaire, chir abdo, lésion muq dig, toxicomanie IV&nbsp;</div><div>- Infection grave (40% de mortalité) : début rapide d'un TTT antifongique&nbsp;</div><div>- Localisation secondaire septiques fqt : FO systématique + ETT + controler hémoc jsq négativation&nbsp;</div><div>- TTT proba : echinocandine IV (caspofungine, micafungine) : fongicide actif sur quasi tous les candidas&nbsp;</div><div>- TTT IIr adapté aux résultats myco&nbsp;</div><div>- Durée : 14j&nbsp;</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "sNl$5AdSw;",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "CAT en cas de persistance de fièvre dans bactériemie, fongémie ?&nbsp;",
-                        "<img src=\"paste-35ce6b07a41271dfc5decc8921ca5e05bcfe5ea2.jpg\">"
-                    ],
-                    "flags": 0,
-                    "guid": "=xxq}Rh6n",
-                    "note_model_uuid": "f9517a66-48f4-11ea-b8db-acde48001122",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "f9525e54-48f4-11ea-b701-acde48001122",
             "deck_config_uuid": "f92aef22-48f4-11ea-bd74-acde48001122",
             "desc": "",
@@ -4589,6 +3563,139 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "f951bfc6-48f4-11ea-bded-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-5727e",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "f95183ee-48f4-11ea-8a68-acde48001122",
             "css": "/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: bold;\n  color: #0048FF;\n}\n\n/* original text reveal hint */\n\n.fullhint a {\n  color: #0048FF;\n}\n\n.card21 .fullhint{\n  /* no need to display hint on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}",
             "flds": [
@@ -4875,139 +3982,6 @@
                 }
             ],
             "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "f951bfc6-48f4-11ea-bded-acde48001122",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced-5727e",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
             "vers": []
         }
     ],
